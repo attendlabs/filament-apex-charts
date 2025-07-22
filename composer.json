@@ -1,5 +1,5 @@
 {
-    "name": "leandrocfe/filament-apex-charts",
+    "name": "attendlabs/filament-apex-charts",
     "description": "Apex Charts integration for Filament PHP.",
     "keywords": [
         "leandrocfe",
@@ -7,7 +7,7 @@
         "filament-apex-charts",
         "apexcharts"
     ],
-    "homepage": "https://github.com/leandrocfe/filament-apex-charts",
+    "homepage": "https://github.com/attendlabs/filament-apex-charts",
     "license": "MIT",
     "authors": [
         {
